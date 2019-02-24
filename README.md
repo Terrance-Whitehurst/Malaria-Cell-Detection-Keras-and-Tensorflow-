@@ -1,4 +1,4 @@
-![](cell1.png)  ![](cell2.png)
+![](cell1.png)  ![](cell2.png) ![](cell3.png)
 
 # Project Overview
 In this kaggle kernel I used a very interesting dataset of Malaria Cell images along with a CNN to classify malaraia cells at a 95% accuracy. 
